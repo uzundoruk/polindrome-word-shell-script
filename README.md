@@ -1,0 +1,1 @@
+# polindrome-word-shell-script
